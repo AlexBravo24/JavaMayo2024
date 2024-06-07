@@ -7,7 +7,9 @@ public abstract class Persona {
 	
 	//Los objetos deben contar con atributos y comportamientos
 	
-	//
+	//ABSTRACCION
+	//Atributos
+	
 	private String nombre;
 	private String genero;
 	private int edad;

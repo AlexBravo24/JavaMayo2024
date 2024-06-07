@@ -7,7 +7,6 @@ public class Principal {
 		//una unica clase Principal (una sola clase
 		//que contenga el metodo main
 		
-
 		// Vamos a probar crear una nueva persona
 		//ejemplo de crear una nueva persona y asignarle valores
 		//a sus atributos
