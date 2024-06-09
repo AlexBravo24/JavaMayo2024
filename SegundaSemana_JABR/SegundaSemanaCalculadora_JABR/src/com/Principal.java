@@ -1,0 +1,30 @@
+package com;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		Cientifica casio = new Cientifica();
+		
+		casio.sumar(19, 34);
+		
+		casio.sumar(1, 2, 3);
+		
+		casio.tomarTemperatura();
+		
+		//La multiherencia en Java no existe. Es decir,
+		//una clase hija no puede tener dos padres.
+		//Pero se puede simular a través del uso de interfaces
+		//implementando los métodos de estas.
+		
+		//¿De dónde obtienen comportamientos los objetos/clases?
+		/*1. De métodos propios
+		 *2. De otras clases, clases abstractas (herencia) 
+		 *3. De interfaces 
+		 */
+		
+		
+
+	}
+
+}
